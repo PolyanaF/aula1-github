@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Popo\Documents\Udemy\JAVA\Projetos_Aula\Seção 12 - GIT\.metadata\.plugins\org.eclipse.jdt.core
+2103231971.index
